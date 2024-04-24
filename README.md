@@ -1,2 +1,3 @@
 # vikas-demo
-this is my first repository
+This is My First Git Repository
+Author - Vikas Dubey
